@@ -1,5 +1,6 @@
 ## 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
+발전하겠습니다!
 
 
 <!--
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
