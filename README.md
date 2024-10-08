@@ -3,7 +3,6 @@
 발전하겠습니다!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwejin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
