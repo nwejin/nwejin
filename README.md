@@ -6,16 +6,24 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-plastic&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
+
+   <img src="https://img.shields.io/badge/-react-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-396EB0?style=flat-plastic&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white"/>
-
+    
+  <img src="https://img.shields.io/badge/-React Query-FF4154?style=flat-plastic&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-plastic&logo=reacthookform&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-plastic&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=redux&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/-Zustand-000000?style=flat-plastic&logo=&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-plastic&logo=shadcnui&logoColor=white"/>
   </p>
   
   
