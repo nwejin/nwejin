@@ -1,6 +1,7 @@
 ## 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
-발전하겠습니다! 
+
+
 
 
 ## ⚙️ 기술 스택
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
 
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwejin)](https://github.com/nwejin/github-readme-stats)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnwejin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
