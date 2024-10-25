@@ -1,7 +1,8 @@
 ## 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
 <p align='center'>
-<a href="mailto:chlwls4m@gmail.com">
+  
+<a href="mailto:chlwls4m@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 <a href="https://www.instagram.com/chljin123/" target="_blank">
@@ -12,10 +13,15 @@
 </a>
 </p>
 
+<p align='center'>
+  <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/이력서-0088CC.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/포트폴리오-0088CC.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
 
-[🔗 이력서](https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58)
-
-[🔗 포트폴리오](https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469)
 
 
 ## ⚙️ 기술 스택
