@@ -1,8 +1,21 @@
 ## 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
+<p align='center'>
+<a href="mailto:chlwls4m@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a>
+<a href="https://www.instagram.com/chljin123/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://velog.io/@nwejin/posts" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=velog&logoColor=white"/>
+</a>
+</p>
 
-[이력서](https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58)
-[포트폴리오](https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469)
+
+[🔗 이력서](https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58)
+
+[🔗 포트폴리오](https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469)
 
 
 ## ⚙️ 기술 스택
@@ -37,8 +50,10 @@
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
 
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwejin)](https://github.com/nwejin/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwejin&layout=compact)
+-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnwejin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
