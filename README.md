@@ -1,7 +1,8 @@
 ## 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
 
-
+[이력서](https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58)
+[포트폴리오](https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469)
 
 
 ## ⚙️ 기술 스택
