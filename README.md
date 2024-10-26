@@ -1,4 +1,4 @@
-### 안녕하세요!, 저는 프론트엔드 개발자 최진입니다. 👋
+### 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
 <p>
 <a href="https://velog.io/@nwejin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-plastic&logo=velog&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 </p>
 
 
-### ⚙️ 기술 스택
+### 기술 스택 ⚙️ 
 #### 언어
 <p>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white"/>
