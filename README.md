@@ -5,8 +5,7 @@
 <a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
 <a href="mailto:chlwls4m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chlwls4m@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
-</p>
-
+<a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a></p>
 <p>
 새로운 기술을 배우는 걸 좋아하고, 이를 활용해 재미있고 직관적인 UI를 만들어가는 데 열정을 가지고 있어요.🔥<br/> 
 광고 회사에서 콘텐츠를 기획하던 경험 덕분에, 유저 경험을 가장 중요하게 생각하며 <br/> 
