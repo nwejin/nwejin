@@ -26,8 +26,9 @@
 
 #### 프레임워크
 <p>
-<img src="https://img.shields.io/badge/-react-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-plastic&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
 </p>
 
 #### 스타일링
