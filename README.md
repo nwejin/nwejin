@@ -1,3 +1,7 @@
+<!--
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=A32633&text=MAXIMUM%20EFFORT%20&section=header&reversal=false&textBg=false&fontSize=60&animation=scaleIn&fontColor=13171B)
+-->
+
 ### 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
 <p>
