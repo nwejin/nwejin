@@ -9,15 +9,21 @@
 <a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
 <a href="mailto:chlwls4m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chlwls4m@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
-<a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a></p>
+<a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
+</p>
+
+
 <p>
-새로운 기술을 배우는 걸 좋아하고, 이를 활용해 재미있고 직관적인 UI를 만들어가는 데 열정을 가지고 있어요.🔥<br/> 
-광고 회사에서 콘텐츠를 기획하던 경험 덕분에, 유저 경험을 가장 중요하게 생각하며 <br/> 
-유저와 호흡하는 생동감 있는 페이지를 만들기 위해 노력하고 있습니다.✨<br/><br/> 
-2024년 12월부터는 Svelte와 Phaser3를 활용해 웹 게임을 개발하며, <br/>
-웹에서 즐기는 콘텐츠를 만드는데 집중하고 있습니다.🎮<br/><br/> 
-개발을 더 즐겁게 하고 싶어서 꾸준히 공부하고, 배운 내용은 테크 블로그에 공유하고 있어요.<br/> 
-앞으로도 유저가 즐길 수 있는 재미있는 콘텐츠를 만들어가겠습니다! 👏
+새로운 기술을 배우는 걸 좋아하고, 이를 바탕으로 재미있고 직관적인 UI를 만들어가는 개발자입니다. 🔥<br/>
+광고 회사에서 콘텐츠를 기획했던 경험 덕분에, 항상 유저 경험을 최우선으로 생각하며<br/>
+유저와 자연스럽게 상호작용하는 생동감 있는 화면을 만드는 데 집중하고 있어요. ✨<br/><br/>
+
+2024년 12월부터는 Svelte와 Phaser3를 활용해 웹 게임을 개발하며,<br/>
+웹이라는 환경 안에서 ‘플레이할 수 있는 콘텐츠’를 만드는 데 흥미를 느끼고 있습니다. 🎮<br/><br/>
+
+개발을 더 즐겁게 하기 위해 꾸준히 공부하고,<br/>
+그 과정에서의 시행착오와 배운 점들을 블로그에 기록하고 있어요.<br/>
+앞으로도 유저가 직접 만지고, 즐기고, 기억할 수 있는 경험을 만들어가고 싶습니다. 👏
 </p>
 
 
