@@ -12,7 +12,7 @@
 <a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
 </p>
 
-<p>재밌는 세상을 개발하는 프로젝트<a href="https://funpeople.co.kr/" target="_blank">재밌어 바로가기</a> </p>
+<p>재밌는 세상을 개발하는 프로젝트 👉 <a href="https://funpeople.co.kr/" target="_blank">재밌어 바로가기</a> </p>
 
 <p>
 새로운 기술을 배우는 걸 좋아하고, 이를 바탕으로 재미있고 직관적인 UI를 만들어가는 개발자입니다. 🔥<br/>
