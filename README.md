@@ -19,14 +19,7 @@
 로또 분석 👉 <a href="https://play.google.com/store/apps/details?id=com.Funware.lottolab&pcampaignid=web_share" target="_blank">로또 연구소</a>
 <br/>
 알람으로 진행하는 모임 약속 관리 👉 <a href="https://play.google.com/store/apps/details?id=com.jaemisseo.meetping&pcampaignid=web_share" target="_blank">MEETPING AOS</a> / 
-<a href="https://apps.apple.com/kr/app/meetping-%EB%AA%A8%EC%9E%84-%EC%95%BD%EC%86%8D-%EA%B4%80%EB%A6%AC/id6757975232
-MEETPING - 모임 약속 관리">MEETPING IOS</a>
-
-
-
-
-
-
+<a href="https://apps.apple.com/kr/app/meetping-%EB%AA%A8%EC%9E%84-%EC%95%BD%EC%86%8D-%EA%B4%80%EB%A6%AC/id6757975232">MEETPING IOS</a>
 </p>
 
 
