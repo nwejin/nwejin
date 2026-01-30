@@ -17,9 +17,14 @@
 <p>
 재밌는 세상을 개발하는 프로젝트 👉 <a href="https://funpeople.co.kr/" target="_blank">재밌어 바로가기</a>
 <br/>
+<img width="24" height="24" align="absmiddle" alt="로또연구소" src="https://github.com/user-attachments/assets/f4a24f99-3613-44d7-9d6d-4158ee63b28a" />
 로또 분석 👉 <a href="https://play.google.com/store/apps/details?id=com.Funware.lottolab&pcampaignid=web_share" target="_blank">로또 연구소</a>
 <br/>
-알람으로 진행하는 모임 약속 관리 👉 <a href="https://play.google.com/store/apps/details?id=com.jaemisseo.meetping&pcampaignid=web_share" target="_blank"> <img width="24" height="24" alt="Frame 6 (1)" src="https://github.com/user-attachments/assets/93dd15f0-0873-4880-a1f6-0ff6efdb41a4" /> MEETPING AOS</a> / 
+<img width="24" height="24" align="absmiddle" alt="MEETPING" src="https://github.com/user-attachments/assets/93dd15f0-0873-4880-a1f6-0ff6efdb41a4" />
+알람으로 진행하는 모임 약속 관리 👉 
+<a href="https://play.google.com/store/apps/details?id=com.jaemisseo.meetping&pcampaignid=web_share" target="_blank">
+   MEETPING AOS
+</a> / 
 <a href="https://apps.apple.com/kr/app/meetping-%EB%AA%A8%EC%9E%84-%EC%95%BD%EC%86%8D-%EA%B4%80%EB%A6%AC/id6757975232">MEETPING IOS</a>
 </p>
 
