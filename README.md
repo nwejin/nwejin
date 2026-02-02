@@ -14,30 +14,34 @@
 
 
 ### Projects 🔨
-<p>
-재밌는 세상을 개발하는 프로젝트 👉 <a href="https://funpeople.co.kr/" target="_blank">재밌어 바로가기</a>
-<br/>
-<img width="24" height="24" align="absmiddle" alt="로또연구소" src="https://github.com/user-attachments/assets/f4a24f99-3613-44d7-9d6d-4158ee63b28a" />
-로또 분석 👉 <a href="https://play.google.com/store/apps/details?id=com.Funware.lottolab&pcampaignid=web_share" target="_blank">로또 연구소</a>
-<br/>
-<img width="24" height="24" align="absmiddle" alt="MEETPING" src="https://github.com/user-attachments/assets/93dd15f0-0873-4880-a1f6-0ff6efdb41a4" />
-알람으로 진행하는 모임 약속 관리 👉 
-<a href="https://play.google.com/store/apps/details?id=com.jaemisseo.meetping&pcampaignid=web_share" target="_blank">
-   MEETPING AOS
-</a> / 
-<a href="https://apps.apple.com/kr/app/meetping-%EB%AA%A8%EC%9E%84-%EC%95%BD%EC%86%8D-%EA%B4%80%EB%A6%AC/id6757975232">MEETPING IOS</a>
-</p>
 
-
+<table>
+  <tr>
+    <td align="center"><img width="24" height="24" src="https://funpeople.co.kr/favicon.ico" /></td>
+    <td><b>재밌어</b> - 재밌는 세상을 개발하는 프로젝트</td>
+    <td><a href="https://funpeople.co.kr/"><img src="https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/f4a24f99-3613-44d7-9d6d-4158ee63b28a" /></td>
+    <td><b>로또 연구소</b> - 로또 분석 앱</td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.Funware.lottolab"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/93dd15f0-0873-4880-a1f6-0ff6efdb41a4" /></td>
+    <td><b>MEETPING</b> - 모임 약속 관리</td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.jaemisseo.meetping"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a>
+      <a href="https://apps.apple.com/kr/app/meetping/id6757975232"><img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 <p>
 새로운 기술을 배우는 걸 좋아하고, 이를 바탕으로 재미있고 직관적인 UI를 만들어가는 개발자입니다. 🔥<br/>
 광고 회사에서 콘텐츠를 기획했던 경험 덕분에, 항상 유저 경험을 최우선으로 생각하며<br/>
 유저와 자연스럽게 상호작용하는 생동감 있는 화면을 만드는 데 집중하고 있어요. ✨<br/><br/>
-
 2024년 12월부터는 Svelte와 Phaser3를 활용해 웹 게임을 개발하며,<br/>
 웹이라는 환경 안에서 ‘플레이할 수 있는 콘텐츠’를 만드는 데 흥미를 느끼고 있습니다. 🎮<br/><br/>
-
 개발을 더 즐겁게 하기 위해 꾸준히 공부하고,<br/>
 그 과정에서의 시행착오와 배운 점들을 블로그에 기록하고 있어요.<br/>
 앞으로도 유저가 직접 만지고, 즐기고, 기억할 수 있는 경험을 만들어가고 싶습니다. 👏
