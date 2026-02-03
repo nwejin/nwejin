@@ -1,6 +1,4 @@
-<!--
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=A32633&text=MAXIMUM%20EFFORT%20&section=header&reversal=false&textBg=false&fontSize=60&animation=scaleIn&fontColor=13171B)
--->
+
 
 ### 안녕하세요!, 프론트엔드 개발자 최진입니다. 👋
 
@@ -45,8 +43,6 @@
 개발을 더 즐겁게 하기 위해 꾸준히 공부하고,<br/>
 그 과정에서의 시행착오와 배운 점들을 블로그에 기록하고 있어요.<br/>
 앞으로도 유저가 직접 만지고, 즐기고, 기억할 수 있는 경험을 만들어가고 싶습니다. 👏
-
-
 </p>
 
 
@@ -87,6 +83,10 @@
 <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
 
+
+<!--
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=A32633&text=MAXIMUM%20EFFORT%20&section=header&reversal=false&textBg=false&fontSize=60&animation=scaleIn&fontColor=13171B)
+-->
 
 
 
