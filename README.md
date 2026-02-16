@@ -60,6 +60,10 @@
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
 </p>
 
+<!--
+<img src="https://img.shields.io/badge/-Phaser-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
+-->
+
 #### 스타일링
 <p>
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-plastic&logo=sass&logoColor=white"/>
