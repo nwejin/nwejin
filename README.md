@@ -91,10 +91,6 @@
 </p>
 
 
-<!--
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=A32633&text=MAXIMUM%20EFFORT%20&section=header&reversal=false&textBg=false&fontSize=60&animation=scaleIn&fontColor=13171B)
-
--->
 
 
 
