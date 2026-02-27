@@ -1,6 +1,6 @@
 
 
-## 안녕하세요! 프론트엔드 개발자 최진입니다. 👋
+## 👋 안녕하세요! 프론트엔드 개발자 최진입니다. 
 
 <p>
 <a href="https://velog.io/@nwejin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-plastic&logo=velog&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 </p>
 
 
-## Projects 🔨
+## 🔨 Projects 
 
 <table>
   <tr>
@@ -49,14 +49,14 @@
 
 -->
 
-## 기술 스택 ⚙️ 
-#### 언어
+## ⚙️ 기술 스택  
+#### Languages
 <p>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TypeScript-396EB0?style=flat-plastic&logo=TypeScript&logoColor=white"/>
 </p>
 
-#### 프레임워크
+#### Frameworks
 <p>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-plastic&logo=nextdotjs&logoColor=white"/>
@@ -67,14 +67,14 @@
 <img src="https://img.shields.io/badge/-Phaser-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
 -->
 
-#### 스타일링
+#### Styling
 <p>
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-plastic&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-plastic&logo=shadcnui&logoColor=white"/>
 </p>
 
-#### 상태관리 & 데이터 패칭
+#### State Management & Data Fetching
 <p>
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Zustand-000000?style=flat-plastic&logo=&logoColor=white"/>
@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-plastic&logo=reacthookform&logoColor=white"/>
 </p>
 
-#### 협업 툴
+#### Collaboration Tools
 <p>
 <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/-notion-000000?style=flat-plastic&logo=notion&logoColor=white"/>
