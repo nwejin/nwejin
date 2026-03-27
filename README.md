@@ -16,7 +16,7 @@
 <table>
     <tr>
     <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/02647a26-066e-4afb-9b63-3684fb859f9b" /></td>
-    <td><b>청군이네</b> - 청군이만을 위한 공간</td>
+    <td><b>청군이네</b> - 청군이네로 놀러오세요!</td>
     <td><a href="https://cheonggun-house.vercel.app//"><img src="https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white" /></a></td>
   </tr>
   <tr>
