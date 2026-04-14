@@ -3,13 +3,15 @@
 ## 👋 안녕하세요! 프론트엔드 개발자 최진입니다. 
 
 <p>
-<a href="https://velog.io/@nwejin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-plastic&logo=velog&logoColor=white"/></a>
-<a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
-<a href="mailto:chlwls4m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chlwls4m@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white"/></a>
-<a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
-<a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
+    <a href="mailto:chlwls4m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chlwls4m@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
+    <a href="https://velog.io/@nwejin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-plastic&logo=velog&logoColor=white"/></a>
 </p>
 
+<p>
+    <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
+    <a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
+</p>
 
 ## 🔨 PROJECTS 
 
