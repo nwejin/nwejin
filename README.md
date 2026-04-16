@@ -7,14 +7,12 @@
     <a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
     <a href="https://velog.io/@nwejin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-plastic&logo=velog&logoColor=white"/></a>
 </p>
-
 <p>
     <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
     <a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
 </p>
 
 ## 🔨 PROJECTS 
-
 <table>
     <tr>
     <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/02647a26-066e-4afb-9b63-3684fb859f9b" /></td>
@@ -58,8 +56,6 @@
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Phaser3-000000?style=flat-plastic&logo=&logoColor=white"/>
 </p>
-
-
 
 #### Styling
 <p>
