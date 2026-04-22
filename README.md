@@ -37,6 +37,11 @@
       <a href="https://apps.apple.com/kr/app/meetping/id6757975232"><img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" /></a>
     </td>
   </tr>
+    <tr>
+    <td align="center"><img width="24" height="24" src="" /></td>
+    <td><b>읽었나?</b> </td>
+    <td><a href="https://read-it-cj.vercel.app/search/"><img src="https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white" /></a></td>
+  </tr>
 
 
 </table>
