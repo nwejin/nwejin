@@ -1,3 +1,4 @@
+<img width="32" height="32" alt="Group 1" src="https://github.com/user-attachments/assets/c2792742-8243-49dd-b808-760253e8bb7b" />
 
 
 ## 👋 안녕하세요! 프론트엔드 개발자 최진입니다. 
@@ -38,10 +39,11 @@
     </td>
   </tr>
     <tr>
-    <td align="center"><img width="24" height="24" src="" /></td>
+    <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/833408ec-3d8a-4504-8e84-90b5b023ef30" /></td>
     <td><b>읽었나?</b> </td>
     <td><a href="https://read-it-cj.vercel.app/search/"><img src="https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white" /></a></td>
   </tr>
+
 
 
 </table>
