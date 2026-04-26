@@ -1,4 +1,3 @@
-<img width="32" height="32" alt="Group 1" src="https://github.com/user-attachments/assets/c2792742-8243-49dd-b808-760253e8bb7b" />
 
 
 ## 👋 안녕하세요! 프론트엔드 개발자 최진입니다. 
