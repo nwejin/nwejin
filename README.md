@@ -42,9 +42,6 @@
     <td><b>읽었나?</b> </td>
     <td><a href="https://read-it-cj.vercel.app/search/"><img src="https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white" /></a></td>
   </tr>
-
-
-
 </table>
 
 
