@@ -7,9 +7,6 @@
        <a href="https://chlwls123.notion.site/b178303bd1c0419bacf7917c67487b58" target="_blank"><img src="https://img.shields.io/badge/이력서-018EF5?style=flat-plastic&logo=readme&logoColor=white"/></a>
     <a href="https://chlwls123.notion.site/127a2de74eae80d5a87bfa555b8b3469" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-4479A1?style=flat-plastic&logo=readme&logoColor=white"/></a>
 </p>
-<p>
- 
-</p>
 
 ## 🔨 PROJECTS 
 <table>
