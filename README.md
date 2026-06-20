@@ -50,6 +50,7 @@
 #### Frameworks
 <p>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-plastic&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Phaser3-000000?style=flat-plastic&logo=&logoColor=white"/>
@@ -68,6 +69,8 @@
 <img src="https://img.shields.io/badge/-Zustand-000000?style=flat-plastic&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React Query-FF4154?style=flat-plastic&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-plastic&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-plastic&logo=supabase&logoColor=white"/>
+   
 </p>
 
 #### Collaboration Tools
