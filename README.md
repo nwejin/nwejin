@@ -1,4 +1,4 @@
-## 👋 안녕하세요! 
+## 🤙 CONTACT
 <p>
     <a href="mailto:chlwls4m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chlwls4m@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/chljin123/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-plastic&logo=instagram&logoColor=white"/></a>
@@ -80,8 +80,6 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
-
-
 
 
 
